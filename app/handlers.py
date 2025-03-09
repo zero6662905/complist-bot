@@ -5,16 +5,14 @@ from aiogram.fsm.context import FSMContext
 from aiogram.types import Message, ReplyKeyboardRemove
 
 from .database import get_data
-from .keyboards import menu_keyboard,complist_keyboard, BUTTON_LIST_COMPONETS
+from .keyboards import menu_keyboard,complist_keyboard, BUTTON_LIST_COMPONETS, ComponentsCallBack
 from .schemas_components import components
 from .commands import LISTS_COMMAND
 
 from .logging_tool import async_log_handlers, logging
 
 
-
 router = Router()
-DATABASE = "data_components.json"
 DATABASE_lists = "data_lists.json"
 
 
@@ -30,9 +28,11 @@ async def command_start_handler(message: Message) -> None:
 @async_log_handlers
 async def lists(message: Message, *args, **kwargs) -> None:
     data = get_data(DATABASE_lists)
-    markup_films = complist_keyboard(data)
+    markup_lists = complist_keyboard(data)
+    await message.answer(f"Оберіть список :", reply_markup=markup_lists)
 
-    await message.answer(f"Оберіть список :", reply_markup=markup_films)
+
+
 
 
 @router.message()

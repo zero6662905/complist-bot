@@ -1,0 +1,48 @@
+[
+	{
+		"title":"Asus TUF GAMING B550M-PLUS",
+		"desc":"Form factor:micro-ATX;Socket:AMD AM4Chipset:AMD B550;Memory slots:4 x DDR4, 4866 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 1 pc, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/ASUS-TUF-GAMING-B550M-PLUS.htm"
+
+	},
+	{
+		"title":"Asus TUF GAMING A520M-PLUS II",
+		"desc":"Form factor:micro-ATX;Socket:AMD AM4Chipset:AMD B550;Memory slots:4 x DDR4, 4866 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 1 pc, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/ASUS-TUF-GAMING-A520M-PLUS-II.htm"
+	},
+	{
+		"title":"Asus PRIME H610M-A DDR4",
+		"desc":"Form factor:micro-ATX;Socket:Intel LGA 1700Chipset:Intel H610;Memory slots:2 x DDR4, 3200 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 1 pc, PCI-E 16x - 1 pc",
+		"url":"https://ek.ua/ua/ASUS-PRIME-H610M-A-DDR4.htm"
+	},
+	{
+		"title":"MSI MPG B550 GAMING PLUS",
+		"desc":"Form factor:ATX;Socket:AMD AM4Chipset:AMD B550;Memory slots:4 x DDR4, 4400 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 2 pcs, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/MSI-MPG-B550-GAMING-PLUS.htm"
+	},
+	{
+		"title":"Asus TUF GAMING B760-PLUS WIFI D4",
+		"desc":"Form factor:ATX;Socket:Intel LGA 1700Chipset:Intel B760;Memory slots:4 x DDR4, 5333 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 2 pcs, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/ASUS-TUF-GAMING-B760-PLUS-WIFI-D4.htm"
+	},
+	{
+		"title":"Asus ROG STRIX B760-F GAMING WIFI",
+		"desc":"Form factor:ATX;Socket:Intel LGA 1700Chipset:Intel B760;Memory slots:4 x DDR5, 7800 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 2 pcs, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/ASUS-ROG-STRIX-B760-F-GAMING-WIFI.htm"
+	},
+	{
+		"title":"MSI B650M GAMING PLUS WIFI",
+		"desc":"Form factor:micro-ATX;Socket:AMD AM5Chipset:AMD B650;Memory slots:4 x DDR5, 7200 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 2 pcs, PCI-E 16x - 1 pc",
+		"url":"https://ek.ua/ua/MSI-B650M-GAMING-PLUS-WIFI.htm"
+	},
+	{
+		"title":"MSI B650 GAMING PLUS WIFI",
+		"desc":"Form factor:ATX;Socket:AMD AM5Chipset:AMD B650;Memory slots:4 x DDR5, 7200 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 1 pc, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/MSI-B650-GAMING-PLUS-WIFI.htm"
+	},
+	{
+		"title":"MSI MAG Z790 TOMAHAWK MAX WIFI",
+		"desc":"Form factor:ATX;Socket:Intel LGA 1700Chipset:Intel Z790;Memory slots:4 x DDR5, 7800 MHz;Connectors:HDMI, DisplayPort, M.2;Expansion:PCI-E 1x - 1 pc, PCI-E 16x - 2 pcs",
+		"url":"https://ek.ua/ua/MSI-MAG-Z790-TOMAHAWK-MAX-WIFI.htm"
+	}
+]

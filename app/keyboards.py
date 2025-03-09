@@ -7,6 +7,13 @@ class COMPlistsCallback(CallbackData, prefix="lists", sep=";"):
     id: int
     title: str
 
+class ComponentsCallBack(CallbackData, prefix="lists", sep=";"):
+    id: int
+    title: str
+    desc: str
+    url: str
+
+
 
 def menu_keyboard():
     builder = ReplyKeyboardBuilder()
@@ -18,7 +25,7 @@ def menu_keyboard():
     return markup
 
 
-def lists_keyboard(list_comp: list):
+def complist_keyboard(list_comp: list):
     builder = InlineKeyboardBuilder()
 
     for id, data_comp in enumerate(list_comp):
@@ -28,11 +35,3 @@ def lists_keyboard(list_comp: list):
     return builder.as_markup()
 
 
-def complist_keyboard(list_comp: list):
-    builder = InlineKeyboardBuilder()
-
-    for id, data_comp in enumerate(list_comp):
-        callback = COMPlistsCallback(id=id, title=data_comp["title"])
-        builder.button(text=callback.title, callback_data=callback.pack())
-        builder.adjust(1, repeat=True)
-    return builder.as_markup()

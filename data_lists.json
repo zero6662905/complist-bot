@@ -1,21 +1,21 @@
 [
   {
-    "title": "блок живлення"
+    "title": "power supply unit"
   },
   {
-    "title": "охолодженя"
+    "title": "cooling"
   },
   {
-    "title": "оперативна память"
+    "title": "RAM"
   },
   {
-    "title": "материньска плата"
+    "title": "motherboard"
   },
   {
-    "title": "процесор"
+    "title": "processor"
   },
   {
-    "title": "видеокарта"
+    "title": "video card"
   },
   {
     "title": "ssd"
@@ -24,6 +24,6 @@
     "title": "hdd"
   },
   {
-    "title": "корпус"
+    "title": "frame"
   }
 ]

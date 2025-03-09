@@ -1,0 +1,48 @@
+[
+	{
+		"title":"Chieftec Polaris",
+		"desc":"Power: 550 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 2 x 6+2 pin; Connectors: SATA 6 pcs, Molex (IDE) 3 pcs",
+		"url":"https://ek.ua/ua/CHIEFTEC-PPS-550FC.htm"
+
+	},
+	{
+		"title":"Chieftec SteelPower",
+		"desc":"Power:550,650,750 W; Form factor:ATX, modular; Power:24+8+8(4+4) pin, 4 x 6+2 pin; Connectors:SATA 6 pcs, Molex (IDE) 3 pcs",
+		"url":"https://ek.ua/ua/CHIEFTEC-BDK-750FC.htm"
+	},
+	{
+		"title":"Chieftec PowerUp",
+		"desc":"Power: 550 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 2 x 6+2 pin; Connectors: SATA 6 pcs, Molex (IDE) 3 pcs",
+		"url":"https://ek.ua/ua/CHIEFTEC-GPX-550FC.htm"
+	},
+	{
+		"title":"Deepcool PN-M",
+		"desc":"Power:750,850 W; Form factor:ATX, modular; Power:24+8+8(4+4) pin, 3 x 6+2 pin, 1 x 16 pin; Connectors:SATA 8 pcs, Molex (IDE) 2 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-PN750M.htm"
+	},
+	{
+		"title":"Deepcool PX-G",
+		"desc":"Power: 850 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 3 x 6+2 pin, 1 x 16 pin; Connectors: SATA 8 pcs, Molex (IDE) 4 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-PX850G.htm"
+	},
+	{
+		"title":"Deepcool DQ M-V2L",
+		"desc":"Power: 850,750 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 4 x 6+2 pin; Connectors: SATA 10 pcs, Molex (IDE) 6 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-DQ850-M-V2L.htm"
+	},
+	{
+		"title":"Deepcool PX-G ",
+		"desc":"Power: 1000, 1200 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 3 x 6+2 pin, 1 x 16 pin; Connectors: SATA 8 pcs, Molex (IDE) 4 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-PX1200G.htm"
+	},
+	{
+		"title":"Deepcool PX-P ",
+		"desc":"Power: 1000, 1300 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 5 x 6+2 pin, 1 x 16 pin; Connectors: SATA 8 pcs, Molex (IDE) 4 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-PX1000P.htm"
+	},
+	{
+		"title":"Chieftec PowerPlay Platinum",
+		"desc":"Power: 850, 1050, 1200 W; Form factor: ATX, modular; Power: 24+8+8(4+4) pin, 6 x 6+2 pin; Connectors: SATA 9 pcs, Molex (IDE) 3 pcs",
+		"url":"https://ek.ua/ua/CHIEFTEC-GPU-850FC.htm"
+	}
+]

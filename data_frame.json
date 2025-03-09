@@ -1,0 +1,47 @@
+[
+	{
+		"title":"Deepcool CH370",
+		"desc":"Form factor:Mini Tower; Board installation:micro-ATX; Power supply:without PSU; Bays (inside):3.5 - 2 pcs, 2.5 - 3 pcs; Front panel:USB A 2 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-CH370-BLACK.htm"
+	},
+	{
+		"title":"Deepcool CC360 ARGB",
+		"desc":"Form factor:Mini Tower; Board installation:micro-ATX; Power supply:without PSU; Bays (inside):3.5 - 2 pcs, 2.5 - 2 pcs; Front panel:USB A 2 pcs",
+		"url":"https://ek.ua/ua/DEEPCOOL-CC360-ARGB-BLACK.htm"
+	},
+	{
+		"title":"Asus A23 Plus",
+		"desc":"Form factor:Mini Tower; Board installation:micro-ATX; Power supply:without PSU; Bays (inside):3.5 - 2 pcs, 2.5 - 3 pcs; Front panel:USB A 2 pcs, USB C 1 pc",
+		"url":"https://ek.ua/ua/ASUS-A23-PLUS-BLACK.htm"
+	},
+	{
+		"title":"be quiet! Pure Base 500DX",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 2 pcs, 2.5 - 5 pcs; Front panel: USB A 1 pc, USB C 1 pc",
+		"url":"https://ek.ua/ua/BE-QUIET--PURE-BASE-500DX-BGW37.htm"
+	},
+	{
+		"title":"Asus TUF Gaming GT301",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 2 pcs, 2.5 - 4 pcs; Front panel: USB A 2 pcs",
+		"url":"https://ek.ua/ua/ASUS-TUF-GAMING-GT301.htm"
+	},
+	{
+		"title":"be quiet! Pure Base 500 FX",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 2 pcs, 2.5 - 4 pcs; Front panel: USB A 1 pc, USB C 1 pc",
+		"url":"https://ek.ua/ua/BE-QUIET--PURE-BASE-500-FX.htm"
+	},
+	{
+		"title":"MODECOM VOLCANO EXPANSE T APEX ARGB",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 3 pcs, 2.5 - 2 pcs; Front panel: USB A 2 pcs, USB C 1 pc",
+		"url":"https://ek.ua/ua/MODECOM-VOLCANO-EXPANSE-T-APEX-ARGB-BLACK.htm"
+	},
+	{
+		"title":"Fractal Design Meshify 2 Compact Light TG",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 2 pcs, 2.5 - 2 pcs; Front panel: USB A 2 pcs, USB C 1 pc",
+		"url":"https://ek.ua/ua/FRACTAL-DESIGN-MESHIFY-2-COMPACT-LIGHT-TG-BLACK.htm"
+	},
+	{
+		"title":"Fractal Design Meshify 2 Compact Dark TG",
+		"desc":"Form factor: Midi Tower; Board installation: ATX; Power supply: without PSU; Bays (inside): 3.5 - 2 pcs, 2.5 - 2 pcs; Front panel: USB A 2 pcs, USB C 1 pc",
+		"url":"https://ek.ua/ua/FRACTAL-DESIGN-MESHIFY-2-COMPACT-DARK-TG.htm"
+	}
+]

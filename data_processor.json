@@ -1,0 +1,47 @@
+[
+	{
+		"title":"Intel Core i5 Alder Lake",
+		"desc":"Socket:Intel LGA 1700;TDP:65W;Features:6 cores, 12 threads, 10nm process;RAM:max. 128GB, DDR4 3200MHz, DDR5 4800MHz;IGP:none",
+		"url":"https://ek.ua/ua/INTEL-I5-12400F-OEM.htm"
+	},
+	{
+		"title":"Intel Core i3 Alder Lake",
+		"desc":"Socket:Intel LGA 1700;TDP:60 W;Features:4 cores, 8 threads, 10 nm process;RAM:max. 128 GB, DDR4 3200 MHz, DDR5 4800 MHz;IGP:UHD Graphics 730",
+		"url":"https://ek.ua/ua/INTEL-I3-12100-OEM.htm"
+	},
+	{
+		"title":"AMD Ryzen 5 Vermeer",
+		"desc":"Socket:AMD AM4;TDP:65 W;Specs:6 cores, 12 threads, 7 nm process;Frequency:3.7 GHz, TurboBoost 4.6 GHz;RAM:max. 128 GB, DDR4 3200 MHzIGP:none",
+		"url":"https://ek.ua/ua/AMD-5600X-BOX.htm"
+	},
+	{
+		"title":"AMD Ryzen 5 Raphael",
+		"desc":"Socket:AMD AM5;TDP:105 W;Features:6 cores, 12 threads, 5 nm process;Frequency:4.7 GHz, TurboBoost 5.3 GHz;RAM:max. 128 GB, DDR5 5200 MHz;IGP:Radeon",
+		"url":"https://ek.ua/ua/AMD-7600X-BOX.htm"
+	},
+	{
+		"title":"AMD Ryzen 5 Vermeer",
+		"desc":"Socket:AMD AM4;TDP:65 W;Specs:6 cores, 12 threads, 7 nm process;Frequency:3.7 GHz, TurboBoost 4.6 GHz;RAM:max. 128 GB, DDR4 3200 MHz;IGP:none",
+		"url":"https://ek.ua/ua/AMD-5600X-BOX.htm"
+	},
+	{
+		"title":"Intel Core i5 Raptor Lake",
+		"desc":"Socket:Intel LGA 1700;TDP:125W;Features:14 cores, 6P+8E, 20 threads, 10nm process;RAM:max. 128GB, DDR4 3200MHz, DDR5 5600MHz;IGP:none",
+		"url":"https://ek.ua/ua/INTEL-I5-13600KF-BOX.htm"
+	},
+	{
+		"title":"Intel Core i9 Alder Lake",
+		"desc":"Socket:Intel LGA 1700;TDP:125 W;Features:16 cores, 8P+8E, 24 threads, 10 nm process;Frequency:TurboBoost 5.2 GHz;RAM:max. 128 GB, DDR4 3200 MHz, DDR5 4800 MHz;IGP:UHD Graphics 770",
+		"url":"https://ek.ua/ua/INTEL-I9-12900K-BOX.htm"
+	},
+	{
+		"title":"Intel Core i7 Raptor Lake",
+		"desc":"Socket:Intel LGA 1700;TDP:125W;Features:16 cores, 8P+8E, 24 threads, 10nm process;RAM:max. 128GB, DDR4 3200MHz, DDR5 5600MHz;IGP:UHD Graphics 770",
+		"url":"https://ek.ua/ua/INTEL-I7-13700K-BOX.htm"
+	},
+	{
+		"title":"AMD Ryzen 7 Granite Ridge",
+		"desc":"Socket:AMD AM5;TDP:65 W;Features:8 cores, 16 threads, 4 nm process;Frequency:3.8 GHz, TurboBoost 5.5 GHz;RAM:max. 192 GB, DDR5 5600 MHz;IGP:Radeon",
+		"url":"https://ek.ua/ua/AMD-9700X-OEM.htm"
+	}
+]

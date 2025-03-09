@@ -1,0 +1,47 @@
+[
+	{
+		"title":"Kingston Fury Beast DDR4 2x16Gb",
+		"desc":"Capacity:32 GB;Type:DDR4;Frequency:3200 MHz;Timing scheme:16-20-20;Voltage:1.35 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF432C16BBK2-32.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR4 2x8Gb",
+		"desc":"Capacity:16 GB;Type:DDR4;Frequency:2666 MHz;Timing scheme:16-18-18;Voltage:1.2 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF426C16BBK2-16.htm"
+	},
+	{
+		"title":"Kingston Fury Renegade DDR4 Black 2x16Gb",
+		"desc":"Capacity:32 GB;Type:DDR4;Frequency:3200 MHz;Timing scheme:16-18-18;Voltage:1.35 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF432C16RB12K2-32.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR5 2x16Gb",
+		"desc":"Capacity:32 GB;Type:DDR5;Frequency:5600 MHz;Timing scheme:40-40-40;Voltage:1.25 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF556C40BBK2-32.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR4 2x32Gb",
+		"desc":"Capacity:64 GB;Type:DDR4;Frequency:3200 MHz;Timing scheme:16-20-20;Voltage:1.35 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF432C16BBK2-64.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR5 RGB 2x16Gb",
+		"desc":"Capacity:32 GB;Type:DDR5;Frequency:5200 MHz;Timing scheme:40-40-40;Voltage:1.25 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF552C40BBAK2-32.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR5 2x32Gb",
+		"desc":"Capacity:64 GB;Type:DDR5;Frequency:4800 MHz;Timing scheme:38-38-38;Voltage:1.1 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF548C38BBK2-64.htm"
+	},
+	{
+		"title":"Kingston Fury Beast DDR5 RGB 2x32Gb",
+		"desc":"Capacity:64 GB;Type:DDR5;Frequency:5600 MHz;Timing scheme:40-40-40;Voltage:1.25 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF556C40BBAK2-64.htm"
+	},
+	{
+		"title":"Kingston Fury Renegade DDR5 2x48Gb",
+		"desc":"Capacity:96 GB;Type:DDR5;Frequency:6000 MHz;Timing scheme:32-38-38;Voltage:1.35 V",
+		"url":"https://ek.ua/ua/KINGSTON-FURY-KF560C32RSK2-96.htm"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"title":"Samsung 990 PRO MZ-V9P1T0BW",
+		"desc":"Capacity:1000 GB; Format:M.2, 22x80, PCI-E 4.0 4x; NAND:3D TLC NAND; Write:6900 MB/s, IOPS 1550K; Read:7450 MB/s, IOPS 1200K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V9P1T0BW.htm"
+
+	},
+	{
+		"title":"Samsung 970 EVO Plus M.2 MZ-V7S1T0BW",
+		"desc":"Capacity:1000 GB; Format:M.2, 22x80, PCI-E 3.0 4x; NAND:3D TLC NAND; Write:3300 MB/s, IOPS 550K; Read:3500 MB/s, IOPS 600K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V7S1T0BW.htm"
+	},
+	{
+		"title":"Samsung 980 PRO MZ-V8P1T0BW",
+		"desc":"Capacity:1000 GB; Format:M.2, 22x80, PCI-E 4.0 4x; NAND:3D TLC NAND; Write:5000 MB/s, IOPS 1000K; Read:7000 MB/s, IOPS 1000K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V8P1T0BW.htm"
+	},
+	{
+		"title":"Samsung 990 PRO MZ-V9P2T0BW",
+		"desc":"Capacity:2000 GB; Format:M.2, 22x80, PCI-E 4.0 4x; NAND:3D TLC NAND; Write:6900 MB/s, IOPS 1550K; Read:7450 MB/s, IOPS 1400K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V9P2T0BW.htm"
+	},
+	{
+		"title":"Samsung 970 EVO Plus M.2 MZ-V7S2T0BW",
+		"desc":"Capacity:2000 GB;Format:M.2, 22x80, PCI-E 3.0 4x;NAND:3D TLC NAND;Write:3300 MB/s, IOPS 560K;Read:3500 MB/s, IOPS 620K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V7S2T0BW.htm"
+	},
+	{
+		"title":"Samsung 980 PRO MZ-V8P2T0BW",
+		"desc":"Capacity:2000 GB;Format:M.2, 22x80, PCI-E 4.0 4x;NAND:3D TLC NAND;Write:5100 MB/s, IOPS 1000K;Read:7000 MB/s, IOPS 1000K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V8P2T0BW.htm"
+	},
+	{
+		"title":"Samsung 990 PRO MZ-V9P2T0CW",
+		"desc":"Capacity:4000 GB; Format:M.2, 22x80, PCI-E 4.0 4x; NAND:3D TLC NAND; Write:6900 MB/s, IOPS 1550K; Read:7450 MB/s, IOPS 1600K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V9P4T0CW.htm"
+	},
+	{
+		"title":"Samsung 980 PRO MZ-V8P2T0BW",
+		"desc":"Capacity:2000 GB;Format:M.2, 22x80, PCI-E 4.0 4x;NAND:3D TLC NAND;Write:5100 MB/s, IOPS 1000K;Read:7000 MB/s, IOPS 1000K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V8P2T0CW.htm"
+	},
+	{
+		"title":"Samsung 970 EVO Plus M.2 MZ-V7S2T0BW",
+		"desc":"Capacity:2000 GB;Format:M.2, 22x80, PCI-E 3.0 4x;NAND:3D TLC NAND;Write:3300 MB/s, IOPS 560K;Read:3500 MB/s, IOPS 620K",
+		"url":"https://ek.ua/ua/SAMSUNG-MZ-V7S2T0BW.htm"
+	}
+]

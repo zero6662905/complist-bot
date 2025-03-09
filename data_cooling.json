@@ -1,0 +1,48 @@
+[
+	{
+		"title":"be quiet! Pure Rock 2 Black",
+		"desc":"Type:active cooler, for processor;TDP:150 W;Fan:1 pc, 120 mm, 1500 rpm;Height:155 mm;Socket Intel:1150, 1155/1156, 2011 v3, 2066, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM2/AM3/FM1/FM2, AM4, AM5",
+		"url":"https://ek.ua/ua/BE-QUIET--PURE-ROCK-2-BLACK.htm"
+
+	},
+	{
+		"title":"Deepcool AK620 Zero Dark",
+		"desc":"Type:active cooler, for processor;TDP:260 W;Fan:2 pcs, 120 mm, 1850 rpm;Height:160 mm;Socket Intel:1150, 1155/1156, 2011 v3, 2066, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/DEEPCOOL-AK620-ZERO-DARK.htm"
+	},
+	{
+		"title":"Deepcool AG400",
+		"desc":"Type: active cooler, for processor; Fan: 1 pc, 120 mm, 2000 rpm; Height: 150 mm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/DEEPCOOL-AG400.htm"
+	},
+	{
+		"title":"be quiet! Dark Rock Pro 5",
+		"desc":"Type: active cooler, for processor; TDP: 270 W; Fan: 2 pcs, 135 mm, thickness 25 mm, 1700 rpm Height: 168 mm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/BE-QUIET--DARK-ROCK-PRO-5.htm"
+	},
+	{
+		"title":"ARCTIC Liquid Freezer III 420",
+		"desc":"Type: water cooling, for processor; Fan: 3 pcs, 140 mm, 25 mm thick, 1700 rpm;Socket Intel:1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/ARCTIC-LIQUID-FREEZER-III-420.htm"
+	},
+	{
+		"title":"Deepcool LE720 Black",
+		"desc":"Type: water cooling, for processor; Fan: 3 pcs, 120 mm, 25 mm thick, 2250 rpm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/DEEPCOOL-LE720-BLACK.htm"
+	},
+	{
+		"title":"Asus ROG Ryujin III 360",
+		"desc":"Type: water cooling, for processor; Fan: 3 pcs, 120 mm, 25 mm thick, 2000 rpm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/ASUS-ROG-RYUJIN-III-360.htm"
+	},
+	{
+		"title":"NZXT Kraken Elite 360",
+		"desc":"Type: water cooling, for processor; Fan: 3 pcs, 120 mm, 25 mm thick, 2000 rpm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5",
+		"url":"https://ek.ua/ua/NZXT-KRAKEN-ELITE-360--2024-.htm"
+	},
+	{
+		"title":"NZXT Kraken 360 RGB Black",
+		"desc":"Type: water cooling, for processor; Fan: 3 pcs, 120 mm, thickness 26 mm, 1800 rpm;Socket Intel:1150, 1155/1156, 1151/1151 v2, 1200, 1700 / 1851;Socket AMD:AM4, AM5, TR4",
+		"url":"https://ek.ua/ua/NZXT-KRAKEN-360-RGB-BLACK.htm"
+	}
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"title":"MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+		"desc":"Memory: 8 GB, GDDR6, 17000 MHz; GPU: NVIDIA GeForce RTX 4060, 2475 MHz; Power: 8 pin, 115 W consumption; Connectors: HDMI 1 pc, DisplayPort 3 pcs",
+		"url":"https://ek.ua/ua/MSI-GEFORCE-RTX-4060-VENTUS-2X-BLACK-8G.htm"
+
+	},
+	{
+		"title":"Asus GeForce RTX 4060 Dual EVO OC",
+		"desc":"Memory:8 GB, GDDR6, 17000 MHz; GPU:NVIDIA GeForce RTX 4060, 2535 MHz; Power:8 pin; Connectors:HDMI 1 pc, DisplayPort 3 pcs",
+		"url":"https://ek.ua/ua/ASUS-GEFORCE-RTX-4060-DUAL-EVO-OC.htm"
+	},
+	{
+		"title":"Gigabyte Radeon RX 7600 XT GAMING OC 16G",
+		"desc":"Memory:16 GB, GDDR6, 18000 MHz; GPU:AMD Radeon RX 7600 XT, 2810 MHz; Power:8 + 8 pin, consumption 190 W; Connectors:HDMI 2 pcs, DisplayPort 2 pcs",
+		"url":"https://ek.ua/ua/GIGABYTE-RADEON-RX-7600-XT-GAMING-OC-16G.htm"
+	},
+	{
+		"title":"Asus Radeon RX 7600 XT Dual OC",
+		"desc":"Memory:16 GB, GDDR6, 18000 MHz; GPU:AMD Radeon RX 7600 XT, 2801 MHz; Power:8 pin, consumption 190 W; Connectors:HDMI 1 pc, DisplayPort 3 pcs",
+		"url":"https://ek.ua/ua/ASUS-RADEON-RX-7600-XT-DUAL-OC.htm"
+	},
+	{
+		"title":"Asus Radeon RX 7600 XT TUF OC",
+		"desc":"Memory:16 GB, GDDR6, 18000 MHz; GPU:AMD Radeon RX 7600 XT; Power:8 pin, consumption 190 W; Connectors:HDMI 1 pc, DisplayPort 3 pcs",
+		"url":"https://ek.ua/ua/ASUS-RADEON-RX-7600-XT-TUF-OC.htm"
+	},
+	{
+		"title":"Gigabyte GeForce RTX 4070 SUPER GAMING OC 12G",
+		"desc":"Memory:12 GB, GDDR6X, 21000 MHz; GPU:NVIDIA GeForce RTX 4070 SUPER, 2565 MHz; Power:16 pin, consumption 220 W; Connectors:HDMI 1 pc, DisplayPort 3 pcs",
+		"url":"https://ek.ua/ua/GIGABYTE-GEFORCE-RTX-4070-SUPER-GAMING-OC-12G.htm"
+	}
+]
