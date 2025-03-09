@@ -1,20 +1,19 @@
 from aiogram import F, Router
 from aiogram.filters import Command, CommandStart
 from aiogram.filters.callback_data import CallbackQuery
-from aiogram.types import Message, ReplyKeyboardRemove
+from aiogram.types import Message
 
-from .database import get_data
-from .keyboards import menu_keyboard,complist_keyboard, BUTTON_LIST_COMPONETS, COMPlistsCallback
-from .schemas_components import components
 from .commands import LISTS_COMMAND
-
-from .logging_tool import async_log_handlers, logging
-
+from .database import get_data
+from .keyboards import (BUTTON_LIST_COMPONETS, COMPlistsCallback,
+                        complist_keyboard, menu_keyboard)
+from .logging_tool import async_log_handlers
 
 router = Router()
 DATABASE_lists = "datas/data_lists.json"
 standart_message = "the first 3 in a small budget, the next 3 in a medium budget, the following 3 in a big budget"
 standart_message_videocard = "the first 3 are in the middle budget, the next 3 are in the big budget"
+
 
 @router.message(CommandStart())
 async def command_start_handler(message: Message) -> None:

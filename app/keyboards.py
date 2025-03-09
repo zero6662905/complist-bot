@@ -1,27 +1,19 @@
-from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 from aiogram.filters.callback_data import CallbackData
+from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 BUTTON_LIST_COMPONETS = "Перелік комплектуючих"
+
 
 class COMPlistsCallback(CallbackData, prefix="lists", sep=";"):
     id: int
     title: str
 
-class ComponentsCallBack(CallbackData, prefix="lists", sep=";"):
-    id: int
-    title: str
-    desc: str
-    url: str
-
-
 
 def menu_keyboard():
     builder = ReplyKeyboardBuilder()
     builder.button(text=BUTTON_LIST_COMPONETS)
-
     markup = builder.as_markup()
     markup.resize_keyboard = True
-
     return markup
 
 
@@ -33,5 +25,3 @@ def complist_keyboard(list_comp: list):
         builder.button(text=callback.title, callback_data=callback.pack())
         builder.adjust(3, repeat=True)
     return builder.as_markup()
-
-
